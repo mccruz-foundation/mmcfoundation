@@ -9,10 +9,10 @@
 
 main:
   - title: "Projects"
-    url: /publications/
+    url: /projects/
 
   - title: "News & Events"
-    url: /talks/    
+    url: /news-events/    
 
   - title: "Portfolio"
     url: /portfolio/
@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "Partnerships & Donations"
-    url: /cv/
+    url: /partnerships-donations/
     
   # - title: "CV"
   #   url: /cv-json/
