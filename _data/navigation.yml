@@ -14,17 +14,11 @@ main:
   - title: "News & Events"
     url: /news-events/    
 
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Partnerships & Donations"
     url: /partnerships-donations/
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   - title: "Contact"
     url: /markdown/
