@@ -14,8 +14,8 @@ main:
   - title: "News & Events"
     url: /news-events/    
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "Partnerships & Donations"
     url: /partnerships-donations/
