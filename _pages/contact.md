@@ -8,5 +8,5 @@ author_profile: true
 
 ## Contact
 
-- For any questions, please contact support@mmcruzfoundation.org.
+- For any inquiries, please contact support(at)mmcruzfoundation.org.
 
