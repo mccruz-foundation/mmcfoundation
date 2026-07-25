@@ -9,8 +9,8 @@ author_profile: true
 
 ## Partnerships
 
-- For partnerships, please contact partnerships(at)mmcruzfoundation.org.
+- For partnerships, please contact partnerships@mmcruzfoundation.org.
 
 ## Donations
 
-- For donations, please contact donations(at)mmcruzfoundation.org.
+- For donations, please contact donations@mmcruzfoundation.org.
