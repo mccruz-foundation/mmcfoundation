@@ -1,0 +1,36 @@
+// custom scss rules
+
+.section-link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+
+  a.section-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    transition: var(--global-transition);
+    color: var(--global-link-color);
+    text-decoration: none;
+    font-weight: normal;
+    border: 3px solid transparent;
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: $box-shadow;
+      border: 3px solid var(--global-base-color);
+    }
+
+    h3 {
+      font-size: $type-size-4;
+      font-weight: bold;
+    }
+    p {
+      font-size: $type-size-5;
+    }
+  }
+}
