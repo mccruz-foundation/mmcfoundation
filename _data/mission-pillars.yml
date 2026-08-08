@@ -1,0 +1,17 @@
+# Pillars for foundation mission statement
+
+- title: "Pillar 1: Education and Scholarship Programs"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "/about-us#education-scholarship"
+
+- title: "Pillar 2: Community-Based Outreach and Engagement"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "/about-us#community-outreach"
+
+- title: "Pillar 3: Comprehensive Healthcare Services"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "/about-us#healthcare-services"
+
+- title: "Pillar 4: Community Development Facilities"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "/about-us#community-development"
