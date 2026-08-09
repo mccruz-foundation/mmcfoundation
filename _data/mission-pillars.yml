@@ -1,17 +1,25 @@
 # Pillars for foundation mission statement
 
 - title: "Pillar 1: Education and Scholarship Programs"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: >
+    Financial assistance, tuition support, allowances, and learning materials to qualified, 
+    disadvantaged, marginalized, or orphaned student beneficiaries.
   url: "/about-us#education-scholarship"
 
-- title: "Pillar 2: Community-Based Outreach and Engagement"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- title: "Pillar 2: Community-Based Outreach Programs"
+  description: >
+    Nutrition feeding programs in underserved areas
   url: "/about-us#community-outreach"
 
-- title: "Pillar 3: Comprehensive Healthcare Services"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- title: "Pillar 3: Healthcare Services"
+  description: >
+    Provide access to essential healthcare services, distribute medical supplies, 
+    and partner with medical practitioners to deliver preventive and rehabilitative 
+    care to vulnerable children.
   url: "/about-us#healthcare-services"
 
 - title: "Pillar 4: Community Development Facilities"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: >
+    Build, maintain, or support community development facilitiies, transitional housing, 
+    or safe spaces that provide secure shelter and holistic care for abandoned and neglected youth.
   url: "/about-us#community-development"

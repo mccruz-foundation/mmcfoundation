@@ -1,5 +1,7 @@
 // custom scss rules
 
+
+// section link grids for the main landing page
 .section-link-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -31,6 +33,46 @@
     }
     p {
       font-size: $type-size-5;
+    }
+  }
+}
+
+// board of trustees section flex layout
+.info-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  .info-item {
+    flex: 1 1 calc(33.333% - 1rem);
+    min-width: 200px;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    transition: var(--global-transition);
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 50%;
+      border: 3px solid transparent;
+
+      &:hover {
+        box-shadow: $box-shadow;
+        border: 3px solid var(--global-base-color);
+      }
+    }
+    h3 {
+      font-size: $type-size-5;
+      font-weight: bold;
+    }
+    h4 {
+      margin-top: 0.2rem;
+      font-size: $type-size-6;
+      font-weight: bold;
+    }
+    p {
+      font-size: $type-size-6;
     }
   }
 }

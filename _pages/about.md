@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "M&M Cruz Foundation, Inc."
+title: "M&M Cruz Foundation"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ _educational_, and _social support_ necessary to transform their lives and uplif
 <div class="section-link-grid">
   <a class="section-link btn" href="#join-us-in-making-a-difference">
     <h3> Support our mission </h3>
-    <p><em> Donate, collaborate, or even sign up as a member/volunteer! </em></p>
+    <p><em> Collaborate or sign up as a member/volunteer! </em></p>
   </a>
   <a class="section-link btn" href="/about-us/">
     <h3> Learn more about the foundation </h3>

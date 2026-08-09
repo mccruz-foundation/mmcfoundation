@@ -1,0 +1,39 @@
+# members of the board of trustees
+
+- name: "Margaret Esther Cruz"
+  title: "President, Co-Founder"
+  image: "profile.png"
+  bio: > 
+    Margaret is a ...
+
+- name: "Madelyn Esther Cruz"
+  title: "Vice President, Co-Founder"
+  image: "profile.png"
+  bio: > 
+    Madelyn volunteers at local hospitals during her spare time as 
+    a PhD candidate.
+
+- name: "Alpheus Dexter Ayala"
+  title: "Secretary"
+  image: "profile.png"
+  bio: > 
+    Dexter is a ...
+
+- name: "Rafael Andrada"
+  title: "Treasurer"
+  image: "profile.png"
+  bio: > 
+    Rafael is a ...
+
+- name: "Kean Arkhei Villareal"
+  title: "Member"
+  image: "profile.png"
+  bio: > 
+    Kean is a ...
+
+- name: "Bon Leif Amalla"
+  title: "Member"
+  image: "profile.png"
+  bio: > 
+    Bon serves as a part-time English teacher at kindergartens
+    in Sapporo, Japan. He enjoys outdoor photography and biophysics.
