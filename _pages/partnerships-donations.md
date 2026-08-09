@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Partnerships
+## Partnerships {#partnerships}
 
 - For partnerships, please contact partnerships@mmcruzfoundation.org.
 
-## Donations
+## Donations {#donate}
 
 - For donations, please contact donations@mmcruzfoundation.org.
