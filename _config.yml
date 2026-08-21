@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo_name.png"
   name             : "M&M Cruz BEACON Foundation, Inc."
   pronouns         : # example: "she/her"  
   bio              : "Non-stock, non-profit foundation"
