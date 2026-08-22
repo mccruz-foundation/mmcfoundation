@@ -17,6 +17,9 @@ main:
   - title: "News & Events"
     url: /news-events/    
 
+  - title: "Membership & Volunteers"
+    url: /membership-volunteers/
+    
   - title: "Partnerships & Donations"
     url: /partnerships-donations/
     
