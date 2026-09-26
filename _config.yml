@@ -209,7 +209,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash # single
       author_profile: true
   # _portfolio
   - scope:
