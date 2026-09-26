@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "M&M Cruz Foundation"
+title: "M&M Cruz BEACON Foundation"
 author_profile: true
 redirect_from: 
   - /about/
