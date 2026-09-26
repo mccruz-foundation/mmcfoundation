@@ -34,47 +34,27 @@ author:
   logo             : "/images/logo_name.png"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
-  dribbble         : # Username
   github           : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : # Username
   facebook         : "people/MM-Cruz-Beacon-Foundation-Inc/61593361961431/"
-  flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 
 
 # Site Settings
@@ -86,10 +66,6 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
