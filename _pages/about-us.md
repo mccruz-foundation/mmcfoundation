@@ -2,6 +2,7 @@
 permalink: /about-us/
 title: "About our Foundation"
 author_profile: false
+layout: splash
 ---
 
 ## Who we are
