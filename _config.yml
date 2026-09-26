@@ -31,6 +31,7 @@ author:
   employer         : # NAME
   uri              : # URL
   email            : "info@mmcruzfoundation.org" 
+  logo             : "/images/logo_name.png"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
