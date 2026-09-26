@@ -43,7 +43,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Username
-  facebook         : # Username
+  facebook         : "MM-Cruz-Beacon-Foundation-Inc"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -116,7 +116,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : "MM-Cruz-Beacon-Foundation-Inc"
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
