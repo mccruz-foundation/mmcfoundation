@@ -17,7 +17,7 @@ we make advances sustainable growth, accountability, and meaningful impact for t
 <div class="info-grid">
     {% for item in site.data.board-of-trustees %}
     <div class="info-item">
-        <img src="{{ item.image | prepend: '/images/' | relative_url }}" style="max-width: 200px; width: 100%; height: auto;">
+        <img src="{{ item.image | prepend: '/images/' | relative_url }}" style="max-width: 250px; width: 100%; height: auto;">
         <h3>{{ item.name }}</h3>
         <h4><em>{{ item.title }}</em></h4>
         <p>{{ item.bio }}</p>
